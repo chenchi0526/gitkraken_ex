@@ -19,3 +19,11 @@ This is an unordered list:
   - subpoint 2
 
 [a link](http://www.google.com) to my webpage
+
+```R
+foo = function(arg1, arg2){
+  <stuff>
+}
+```
+
+use the `cd` command
