@@ -3,3 +3,4 @@ foo = 'that'
 bar = 'this'
 
 foo + bar
+boz = foo + bar
