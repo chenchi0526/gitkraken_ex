@@ -4,3 +4,5 @@ bar = 'this'
 
 foo + bar
 boz = foo + bar
+
+newstr = foo + boz
