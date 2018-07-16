@@ -1,4 +1,8 @@
 # this is a new file
-foo = 42
+foo = 'that'
+bar = 'this'
 
-newvar = 37
+foo + bar
+boz = foo + bar
+
+newstr = foo + boz
